@@ -10,4 +10,6 @@ Una vez creado el entorno se debe inicializar para tener las dependencias activa
 `conda activate qiime2-amplicon-2023.9`
 ---
 
-## Explicación del proyecto 
+## Explicación del proyecto
+
+Hace falta una explicación del proyecto aquí.  
