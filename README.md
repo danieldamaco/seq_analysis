@@ -8,6 +8,7 @@ El archivo enronment.yml ya contiene todo lo necesario para que el proyecto pued
 Una vez creado el entorno se debe inicializar para tener las dependencias activas y poder ejecutar el proyecto. 
 
 `conda activate qiime2-amplicon-2023.9`
+| https://docs.qiime2.org/2024.10/ 
 ---
 
 ## Explicación del proyecto
