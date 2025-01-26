@@ -1,9 +1,9 @@
 # **Análisis de microbiota**
 
 ## Objetivo
-. Análizar de datos de microbioma de suelo.
-. Evaluar diversidad filogenética, alfa y beta.
-. Evaluar toxonomía y abundacia de microbioma.
+1. Análizar datos de microbioma de suelo.
+2. Evaluar diversidad filogenética, alfa y beta.
+3. Evaluar toxonomía y abundacia de microbioma.
 
 ## Requerimientos 
 instalar conda -> liga de descarga. 
