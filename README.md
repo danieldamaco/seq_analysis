@@ -4,10 +4,16 @@
 ## Introducción
 El Desierto de Atacama es una de las zonas más áridas del planeta, a pesar de esto, extraordinariamente se pueden encontrar microorganismos viviendo en su tierra. Las características de este suelo cambian dependiendo de la región, por lo cual, para este estudio se decidió utilizar muestras de Baquedano y Yungay, en donde la humedad relativa aumenta con el aumento de altura. Es importante conocer las condiciones de recolección de la muestra ya que dependiendo de estas será la composición microbiana que se encontrará. 
 
-## Objetivo
+## Objetivos
 1. Análizar la composición microbiana del suelo.
 2. Evaluar diversidad filogenética, alfa y beta.
 3. Evaluar taxonomía y abundacia de microbioma.
+
+## Objetivos específicos 
+1. Describir los pasos iniciales del análisis de lecturas de extremos pareados hasta el punto en que el flujo de análisis coincide con el de las lecturas de un solo extremo. Esto incluye las etapas de importación, desmultiplexación y eliminación de ruido, que resultan en la generación de una tabla de características y las secuencias de características asociadas.
+2. Importar los datos de secuencias de extremos pareados al sistema QIIME 2 en el formato adecuado (por ejemplo, archivos FASTQ), asegurando la preparación correcta de los archivos de metadatos y asignación de muestras.
+3. Obtener una tabla de características y las secuencias asociadas, las cuales representen la abundancia y unicidad de las características para su posterior clasificación taxonómica o análisis filogenético.
+
 
 ## Requerimientos 
 instalar conda -> liga de descarga. (https://anaconda.org/anaconda/conda) 
