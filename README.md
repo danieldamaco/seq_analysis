@@ -6,7 +6,7 @@
 3. Evaluar toxonomía y abundacia de microbioma.
 
 ## Requerimientos 
-instalar conda -> liga de descarga. 
+instalar conda -> liga de descarga. (https://anaconda.org/anaconda/conda) 
 ### Crear entorno 
 El archivo enronment.yml ya contiene todo lo necesario para que el proyecto pueda ser corrido en cualquier entorno. 
 
