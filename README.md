@@ -19,7 +19,6 @@ Una vez creado el entorno se debe inicializar para tener las dependencias activa
 | https://docs.qiime2.org/2024.10/ 
 ---
 
-## Explicación del proyecto
 ## Worflow 
 **_1. Obtener los datos:_** 
 Ingresamos al directorio y se descargan los metadatos en un archivo llamado sample_metadata.tsv. 
