@@ -1,6 +1,7 @@
 # **Análisis de microbiota**
 
-#Introducción
+
+## Introducción
 El Desierto de Atacama es una de las zonas más áridas del planeta, a pesar de esto, extraordinariamente se pueden encontrar microorganismos viviendo en su tierra. Las características de este suelo cambian dependiendo de la región, por lo cual, para este estudio se decidió utilizar muestras de Baquedano y Yungay, en donde la humedad relativa aumenta con el aumento de altura. Es importante conocer las condiciones de recolección de la muestra ya que dependiendo de estas será la composición microbiana que se encontrará. 
 
 ## Objetivo
